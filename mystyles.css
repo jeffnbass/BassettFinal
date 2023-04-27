@@ -1,0 +1,23 @@
+
+ .color {
+    color: brown;
+ }
+
+ .family {
+    font-family: sans-serif;
+ }
+
+ .third {
+    background-color: aliceblue; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .arnold {
+    color: aquamarine;
+    background-color: blue;
+ }
+
+ .button {
+   font-size: large;
+   margin-bottom: 600px;
+ }
